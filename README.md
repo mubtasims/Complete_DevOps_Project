@@ -1,3 +1,3 @@
-# maven-project
+# Complete-DevOps Project
 
 Simple Maven Project
