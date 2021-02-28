@@ -1,3 +1,3 @@
-# maven-project
+# Complete-DevOps Project
 
-Simple Maven Project
+This project consists scripts required to create a fully working CI/CD architecture of a Java web app.
